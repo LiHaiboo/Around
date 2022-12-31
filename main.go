@@ -20,7 +20,7 @@ const (
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://34.125.9.96:9200/"
+	ES_URL = "http://34.125.129.85:9200/"
 )
 
 type Location struct {
